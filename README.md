@@ -33,10 +33,12 @@ In this project you will be working with team members using Git and Github to de
 - Deployment.
 
 ### Back-End Requirment
-- At least 3 Controllers
-- At least 15 Endpoints.
+- At least 3 Controllers/Views.
+- At least 2 Models.
+- At least 15 Endpoints (Including CRUD endpoints).
 - At least 2 Types of users.
-- Database Conttection.
+- Database Connection(PostgreSQL databases).
 - At least 2 Relationships in the database.
-- Authentication.
+- JWT Authentication.
+- Make sure to use suitable HTTP status codes for your endpoints.
 - Deployment.
