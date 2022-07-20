@@ -7,9 +7,22 @@ In this project you will be working with team members using Git and Github to de
 
 ## Project Requirements
 - Team: 3-4 members. 
+- Make a representaion/slides for the project idea that has the following main points:
+  - Title.
+  - Problem. 
+  - Solution you created.
+  - Team members information/names.
+- Update your README.md file to have the following:
+  - The title of your project.
+  - Description.
+  - Team members names and Github accounts.
+  - Deployment link.
+  - Images/Screenshots of the project.
 - Build both Front-End and Back-End of the project.
 - Each group must choose a unique idea.
-- Each member should have their own contribution in the project(will be checked using git commit author)
+- Each member should have their own contribution in the project(will be checked using git commit author).
+
+| Note: The work should be divided equally between team members.
 
 ### Front-End Requirment
 - At least 7 Components.
