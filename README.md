@@ -7,7 +7,7 @@ In this project you will be working with team members using Git and Github to de
 
 ## Project Requirements
 - Team: 3-4 members. 
-- Make a representaion/slides for the project idea that has the following main points:
+- Make a representation/slides for the project idea that has the following main points:
   - Title.
   - Problem. 
   - Solution you created.
